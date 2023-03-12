@@ -1,28 +1,17 @@
 ﻿using System;
 
 namespace classesReview{
+	class Pessoa{
+		public string Nome;
+		public string Idade;
+		public char Genero;
 
-	class program{
-		class Pessoa{
-			public string Nome;
-			public string Idade;
-			public char Genero;
-
-			public Pessoa(string firstName){
-				Nome = firstName;
-			}
-
-			public void juntarNome(){
-				Console.WriteLine($"{Nome} possui {Idade} anos.");
-			}
+		public Pessoa(string firstName){
+			Nome = firstName;
 		}
 
-		static void Main(string [] args){
-			Pessoa pessoa1 = new Pessoa("Filipe");
-			pessoa1.Idade = "29";
-			pessoa1.Genero = 'M';
-
-			pessoa1.juntarNome();
+		public void juntarNome(){
+			Console.WriteLine($"{Nome} possui {Idade} anos.");
 		}
 	}
 }
