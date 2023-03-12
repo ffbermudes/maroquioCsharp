@@ -1,0 +1,15 @@
+C:\Users\Filipe\Desktop\Estudos Csharp\atributosPropriedadesEscopos\bin\Debug\net7.0\atributosPropriedadesEscopos.exe
+C:\Users\Filipe\Desktop\Estudos Csharp\atributosPropriedadesEscopos\bin\Debug\net7.0\atributosPropriedadesEscopos.deps.json
+C:\Users\Filipe\Desktop\Estudos Csharp\atributosPropriedadesEscopos\bin\Debug\net7.0\atributosPropriedadesEscopos.runtimeconfig.json
+C:\Users\Filipe\Desktop\Estudos Csharp\atributosPropriedadesEscopos\bin\Debug\net7.0\atributosPropriedadesEscopos.dll
+C:\Users\Filipe\Desktop\Estudos Csharp\atributosPropriedadesEscopos\bin\Debug\net7.0\atributosPropriedadesEscopos.pdb
+C:\Users\Filipe\Desktop\Estudos Csharp\atributosPropriedadesEscopos\obj\Debug\net7.0\atributosPropriedadesEscopos.csproj.AssemblyReference.cache
+C:\Users\Filipe\Desktop\Estudos Csharp\atributosPropriedadesEscopos\obj\Debug\net7.0\atributosPropriedadesEscopos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Filipe\Desktop\Estudos Csharp\atributosPropriedadesEscopos\obj\Debug\net7.0\atributosPropriedadesEscopos.AssemblyInfoInputs.cache
+C:\Users\Filipe\Desktop\Estudos Csharp\atributosPropriedadesEscopos\obj\Debug\net7.0\atributosPropriedadesEscopos.AssemblyInfo.cs
+C:\Users\Filipe\Desktop\Estudos Csharp\atributosPropriedadesEscopos\obj\Debug\net7.0\atributosPropriedadesEscopos.csproj.CoreCompileInputs.cache
+C:\Users\Filipe\Desktop\Estudos Csharp\atributosPropriedadesEscopos\obj\Debug\net7.0\atributosPropriedadesEscopos.dll
+C:\Users\Filipe\Desktop\Estudos Csharp\atributosPropriedadesEscopos\obj\Debug\net7.0\refint\atributosPropriedadesEscopos.dll
+C:\Users\Filipe\Desktop\Estudos Csharp\atributosPropriedadesEscopos\obj\Debug\net7.0\atributosPropriedadesEscopos.pdb
+C:\Users\Filipe\Desktop\Estudos Csharp\atributosPropriedadesEscopos\obj\Debug\net7.0\atributosPropriedadesEscopos.genruntimeconfig.cache
+C:\Users\Filipe\Desktop\Estudos Csharp\atributosPropriedadesEscopos\obj\Debug\net7.0\ref\atributosPropriedadesEscopos.dll
